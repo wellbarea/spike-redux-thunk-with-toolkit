@@ -1,5 +1,5 @@
 {
-  "name": "redux-thunk-example",
+  "name": "redux-thunk-with-toolkit",
   "version": "0.1.0",
   "private": true,
   "scripts": {
